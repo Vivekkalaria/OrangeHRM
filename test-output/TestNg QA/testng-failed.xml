@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNg QA]">
+  <test thread-count="5" name="Testn(failed)">
+    <classes>
+      <class name="OrangeHRMtest.Logintest">
+        <methods>
+          <include name="Login"/>
+          <include name="close"/>
+          <include name="initsetup"/>
+          <include name="Title"/>
+        </methods>
+      </class> <!-- OrangeHRMtest.Logintest -->
+    </classes>
+  </test> <!-- Testn(failed) -->
+</suite> <!-- Failed suite [TestNg QA] -->

@@ -1,0 +1,9 @@
+<suite name="TestNg QA">
+	<test name="Testn" allow-return-values="true">
+		<classes>
+			<class name="OrangeHRMtest.Logintest" />
+		</classes>
+	</test>
+
+
+</suite>
